@@ -1,8 +1,8 @@
 <?php
 // Parametri di connessione al database
 $servername = "localhost";
-$username = "YOUR-USERNAME";
-$password = "YOUR-PASSWORD";
+$username = "root";
+$password = "rootroot";
 $dbname = "sqlitest";
 
 // Connessione al database
